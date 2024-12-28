@@ -1,5 +1,7 @@
-export const TestRoute = () => {
+const TestRoute = () => {
     return (
         <>test - route</>
     )
 }
+
+export default TestRoute
